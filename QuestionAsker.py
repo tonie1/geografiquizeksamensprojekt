@@ -1,16 +1,10 @@
-def questionasker()
+def askquestions(fname):
+    print(fname)
 
-## question
-
-def my_function(fname):
-
-  print(fname)
-
-my_function("a: ch")
-my_function("b: dk")
-my_function("c: ca")
-my_function("d: pl")
-
+askquestions("a: ch")
+askquestions("b: dk")
+askquestions("c: ca")
+askquestions("d: pl")
 
 ##answers
 
